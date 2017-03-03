@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="aboutBtn" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="aboutContent" xml:space="preserve">
+    <value>中国铁路动车组配属查询
+数据源：http://www.passearch.info，编组信息：新浪微博@1435mm的距离。
+作者邮箱：cyqdj@live.cn，欢迎联系</value>
+  </data>
+  <data name="aboutTitle" xml:space="preserve">
+    <value>关于</value>
+  </data>
+  <data name="appName" xml:space="preserve">
+    <value>中国铁路动车组配属查询</value>
+  </data>
+  <data name="attachInf" xml:space="preserve">
+    <value>附加信息</value>
+  </data>
+  <data name="Beijing.Content" xml:space="preserve">
+    <value>北京铁路局</value>
+  </data>
+  <data name="btnAbout.Label" xml:space="preserve">
+    <value>关于</value>
+  </data>
+  <data name="btnAgency.Label" xml:space="preserve">
+    <value>路局查询</value>
+  </data>
+  <data name="btnDep.Label" xml:space="preserve">
+    <value>动车所查询</value>
+  </data>
+  <data name="btnNum.Label" xml:space="preserve">
+    <value>车号查询</value>
+  </data>
+  <data name="btnSearch.Content" xml:space="preserve">
+    <value>查询</value>
+  </data>
+  <data name="btnType.Label" xml:space="preserve">
+    <value>车型查询</value>
+  </data>
+  <data name="btnUp.Content" xml:space="preserve">
+    <value>更新</value>
+  </data>
+  <data name="btnUpdate.Label" xml:space="preserve">
+    <value>数据更新</value>
+  </data>
+  <data name="Chengdu.Content" xml:space="preserve">
+    <value>成都铁路局</value>
+  </data>
+  <data name="CR.Content" xml:space="preserve">
+    <value>中国铁路总公司</value>
+  </data>
+  <data name="Guangzhou.Content" xml:space="preserve">
+    <value>广州铁路集团</value>
+  </data>
+  <data name="Harbin.Content" xml:space="preserve">
+    <value>哈尔滨铁路局</value>
+  </data>
+  <data name="Huhe.Content" xml:space="preserve">
+    <value>呼和浩特铁路局</value>
+  </data>
+  <data name="Jinan.Content" xml:space="preserve">
+    <value>济南铁路局</value>
+  </data>
+  <data name="Kunming.Content" xml:space="preserve">
+    <value>昆明铁路局</value>
+  </data>
+  <data name="Lanzhou.Content" xml:space="preserve">
+    <value>兰州铁路局</value>
+  </data>
+  <data name="listAgency.Text" xml:space="preserve">
+    <value>配属路局</value>
+  </data>
+  <data name="listAgencyMobile.Text" xml:space="preserve">
+    <value>路局</value>
+  </data>
+  <data name="listDep.Text" xml:space="preserve">
+    <value>配属动车所</value>
+  </data>
+  <data name="listDepMobile.Text" xml:space="preserve">
+    <value>动车所</value>
+  </data>
+  <data name="listFactory.Text" xml:space="preserve">
+    <value>生产厂家</value>
+  </data>
+  <data name="listFactoryMobile" xml:space="preserve">
+    <value>生产厂家：</value>
+  </data>
+  <data name="listNum.Text" xml:space="preserve">
+    <value>编号</value>
+  </data>
+  <data name="listType.Text" xml:space="preserve">
+    <value>车辆类型</value>
+  </data>
+  <data name="listTypeMobile.Text" xml:space="preserve">
+    <value>类型</value>
+  </data>
+  <data name="Nanchang.Content" xml:space="preserve">
+    <value>南昌铁路局</value>
+  </data>
+  <data name="Nanning.Content" xml:space="preserve">
+    <value>南宁铁路局</value>
+  </data>
+  <data name="newVersion.Text" xml:space="preserve">
+    <value>最新数据库版本: </value>
+  </data>
+  <data name="newVersionOK" xml:space="preserve">
+    <value>您已经使用最新版本数据库</value>
+  </data>
+  <data name="oldVersion.Text" xml:space="preserve">
+    <value>当前数据库版本: </value>
+  </data>
+  <data name="serverError" xml:space="preserve">
+    <value>更新服务器错误，请检查网络连接</value>
+  </data>
+  <data name="Shanghai.Content" xml:space="preserve">
+    <value>上海铁路局</value>
+  </data>
+  <data name="Shenyang.Content" xml:space="preserve">
+    <value>沈阳铁路局</value>
+  </data>
+  <data name="Taiyuan.Content" xml:space="preserve">
+    <value>太原铁路局</value>
+  </data>
+  <data name="Tibet.Content" xml:space="preserve">
+    <value>青藏铁路公司</value>
+  </data>
+  <data name="Urmqi.Content" xml:space="preserve">
+    <value>乌鲁木齐铁路局</value>
+  </data>
+  <data name="Wuhan.Content" xml:space="preserve">
+    <value>武汉铁路局</value>
+  </data>
+  <data name="Xian.Content" xml:space="preserve">
+    <value>西安铁路局</value>
+  </data>
+  <data name="Zhengzhou.Content" xml:space="preserve">
+    <value>郑州铁路局</value>
+  </data>
+  <data name="App" xml:space="preserve">
+    <value>动车组配属查询</value>
+  </data>
+  <data name="AgencyLabel" xml:space="preserve">
+    <value>配属路局：</value>
+  </data>
+  <data name="DepLabel" xml:space="preserve">
+    <value>配属动车所：</value>
+  </data>
+  <data name="HK.Content" xml:space="preserve">
+    <value>港铁公司</value>
+  </data>
+  <data name="listID.Text" xml:space="preserve">
+    <value>车厢编号</value>
+  </data>
+  <data name="listIDMobile.Text" xml:space="preserve">
+    <value>车厢</value>
+  </data>
+  <data name="listP.Text" xml:space="preserve">
+    <value>定员</value>
+  </data>
+  <data name="listT.Text" xml:space="preserve">
+    <value>车种</value>
+  </data>
+  <data name="mm1435.Content" xml:space="preserve">
+    <value>车辆编组数据来源：新浪微博 @ 1435mm的距离</value>
+  </data>
+  <data name="mm1435Mobile.Content" xml:space="preserve">
+    <value>编组数据：新浪微博 @ 1435mm的距离</value>
+  </data>
+  <data name="sEMU" xml:space="preserve">
+    <value>标准动车组</value>
+  </data>
+</root>

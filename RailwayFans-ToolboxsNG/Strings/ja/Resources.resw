@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="aboutBtn" xml:space="preserve">
+    <value>はい</value>
+  </data>
+  <data name="aboutContent" xml:space="preserve">
+    <value>中国鉄道高速列車所属のご案内
+データソース：http://www.passearch.info，列車編成 ：Weibo @ 1435mm的距离。
+フィードバックのメール先：cyqdj@live.cn、いつでもお尋ねください</value>
+  </data>
+  <data name="aboutTitle" xml:space="preserve">
+    <value>CR-EMUについて</value>
+  </data>
+  <data name="appName" xml:space="preserve">
+    <value>中国鉄道高速列車所属のご案内</value>
+  </data>
+  <data name="attachInf" xml:space="preserve">
+    <value>追加情報</value>
+  </data>
+  <data name="Beijing.Content" xml:space="preserve">
+    <value>北京鉄道局</value>
+  </data>
+  <data name="btnAbout.Label" xml:space="preserve">
+    <value>CR-EMUについて</value>
+  </data>
+  <data name="btnAgency.Label" xml:space="preserve">
+    <value>鉄道局</value>
+  </data>
+  <data name="btnDep.Label" xml:space="preserve">
+    <value>列車運用所</value>
+  </data>
+  <data name="btnNum.Label" xml:space="preserve">
+    <value>列車番号</value>
+  </data>
+  <data name="btnSearch.Content" xml:space="preserve">
+    <value>検索</value>
+  </data>
+  <data name="btnType.Label" xml:space="preserve">
+    <value>列車種別</value>
+  </data>
+  <data name="btnUp.Content" xml:space="preserve">
+    <value>データの更新</value>
+  </data>
+  <data name="btnUpdate.Label" xml:space="preserve">
+    <value>データの更新</value>
+  </data>
+  <data name="Chengdu.Content" xml:space="preserve">
+    <value>成都鉄道局</value>
+  </data>
+  <data name="CR.Content" xml:space="preserve">
+    <value>中国鉄道総公司</value>
+  </data>
+  <data name="Guangzhou.Content" xml:space="preserve">
+    <value>広州鉄道集団</value>
+  </data>
+  <data name="Harbin.Content" xml:space="preserve">
+    <value>ハルピン鉄道局</value>
+  </data>
+  <data name="Huhe.Content" xml:space="preserve">
+    <value>フフホト鉄道局</value>
+  </data>
+  <data name="Jinan.Content" xml:space="preserve">
+    <value>済南鉄道局</value>
+  </data>
+  <data name="Kunming.Content" xml:space="preserve">
+    <value>昆明鉄道局</value>
+  </data>
+  <data name="Lanzhou.Content" xml:space="preserve">
+    <value>蘭州鉄道局</value>
+  </data>
+  <data name="listAgency.Text" xml:space="preserve">
+    <value>鉄道局所属</value>
+  </data>
+  <data name="listAgencyMobile.Text" xml:space="preserve">
+    <value>鉄道局</value>
+  </data>
+  <data name="listDep.Text" xml:space="preserve">
+    <value>運用所所属</value>
+  </data>
+  <data name="listDepMobile.Text" xml:space="preserve">
+    <value>運用所</value>
+  </data>
+  <data name="listFactory.Text" xml:space="preserve">
+    <value>メーカー</value>
+  </data>
+  <data name="listFactoryMobile" xml:space="preserve">
+    <value>メーカー：</value>
+  </data>
+  <data name="listNum.Text" xml:space="preserve">
+    <value>番号</value>
+  </data>
+  <data name="listType.Text" xml:space="preserve">
+    <value>列車種別</value>
+  </data>
+  <data name="listTypeMobile.Text" xml:space="preserve">
+    <value>種別</value>
+  </data>
+  <data name="Nanchang.Content" xml:space="preserve">
+    <value>南昌鉄道局</value>
+  </data>
+  <data name="Nanning.Content" xml:space="preserve">
+    <value>南寧鉄道局</value>
+  </data>
+  <data name="newVersion.Text" xml:space="preserve">
+    <value>最新バージョン: </value>
+  </data>
+  <data name="newVersionOK" xml:space="preserve">
+    <value>すでに最新バージョンになっています。</value>
+  </data>
+  <data name="oldVersion.Text" xml:space="preserve">
+    <value>現在のバージョン: </value>
+  </data>
+  <data name="serverError" xml:space="preserve">
+    <value>更新サーバーエラーが発生し、ネットワーク接続を確認してください</value>
+  </data>
+  <data name="Shanghai.Content" xml:space="preserve">
+    <value>上海鉄道局</value>
+  </data>
+  <data name="Shenyang.Content" xml:space="preserve">
+    <value>瀋陽鉄道局</value>
+  </data>
+  <data name="Taiyuan.Content" xml:space="preserve">
+    <value>太原鉄道局</value>
+  </data>
+  <data name="Tibet.Content" xml:space="preserve">
+    <value>青蔵鉄道公司</value>
+  </data>
+  <data name="Urmqi.Content" xml:space="preserve">
+    <value>ウルムチ鉄道局</value>
+  </data>
+  <data name="Wuhan.Content" xml:space="preserve">
+    <value>武漢鉄道局</value>
+  </data>
+  <data name="Xian.Content" xml:space="preserve">
+    <value>西安鉄道局</value>
+  </data>
+  <data name="Zhengzhou.Content" xml:space="preserve">
+    <value>鄭州鉄道局</value>
+  </data>
+  <data name="App" xml:space="preserve">
+    <value>高速列車所属のご案内</value>
+  </data>
+  <data name="AgencyLabel" xml:space="preserve">
+    <value>鉄道局所属：</value>
+  </data>
+  <data name="DepLabel" xml:space="preserve">
+    <value>運用所所属：</value>
+  </data>
+  <data name="HK.Content" xml:space="preserve">
+    <value>港鉄路株式会社</value>
+  </data>
+  <data name="mm1435.Content" xml:space="preserve">
+    <value>列車編成 データソース：Weibo @ 1435mm的距离</value>
+  </data>
+  <data name="listID.Text" xml:space="preserve">
+    <value>車両番号</value>
+  </data>
+  <data name="listIDMobile.Text" xml:space="preserve">
+    <value>車両 </value>
+  </data>
+  <data name="listP.Text" xml:space="preserve">
+    <value>定員</value>
+  </data>
+  <data name="listT.Text" xml:space="preserve">
+    <value>席番</value>
+  </data>
+  <data name="mm1435Mobile.Content" xml:space="preserve">
+    <value>列車編成 ：Weibo @ 1435mm的距离</value>
+  </data>
+  <data name="sEMU" xml:space="preserve">
+    <value>標準高速列車</value>
+  </data>
+</root>

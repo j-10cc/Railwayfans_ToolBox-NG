@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="aboutBtn" xml:space="preserve">
+    <value>確定</value>
+  </data>
+  <data name="aboutContent" xml:space="preserve">
+    <value>中國鐵路電聯車配屬查詢
+資料來源：http://www.passearch.info，編組資料：新浪微博 @ 1435mm的距離。
+數據回饋郵箱：cyqdj@live.cn，歡迎聯繫</value>
+  </data>
+  <data name="aboutTitle" xml:space="preserve">
+    <value>關於</value>
+  </data>
+  <data name="appName" xml:space="preserve">
+    <value>中國鐵路電聯車配屬查詢</value>
+  </data>
+  <data name="attachInf" xml:space="preserve">
+    <value>附加資訊</value>
+  </data>
+  <data name="Beijing.Content" xml:space="preserve">
+    <value>北京鐵路局</value>
+  </data>
+  <data name="btnAbout.Label" xml:space="preserve">
+    <value>關於</value>
+  </data>
+  <data name="btnAgency.Label" xml:space="preserve">
+    <value>配屬路局</value>
+  </data>
+  <data name="btnDep.Label" xml:space="preserve">
+    <value>運用所查詢</value>
+  </data>
+  <data name="btnNum.Label" xml:space="preserve">
+    <value>車號查詢</value>
+  </data>
+  <data name="btnSearch.Content" xml:space="preserve">
+    <value>查詢</value>
+  </data>
+  <data name="btnType.Label" xml:space="preserve">
+    <value>車型查詢</value>
+  </data>
+  <data name="btnUpdate.Label" xml:space="preserve">
+    <value>資料更新</value>
+  </data>
+  <data name="Chengdu.Content" xml:space="preserve">
+    <value>成都鐵路局</value>
+  </data>
+  <data name="CR.Content" xml:space="preserve">
+    <value>中國鐵路總公司</value>
+  </data>
+  <data name="Guangzhou.Content" xml:space="preserve">
+    <value>廣州鐵路集團</value>
+  </data>
+  <data name="Harbin.Content" xml:space="preserve">
+    <value>哈爾濱鐵路局</value>
+  </data>
+  <data name="Huhe.Content" xml:space="preserve">
+    <value>呼和浩特鐵路局</value>
+  </data>
+  <data name="Jinan.Content" xml:space="preserve">
+    <value>濟南鐵路局</value>
+  </data>
+  <data name="Kunming.Content" xml:space="preserve">
+    <value>昆明鐵路局</value>
+  </data>
+  <data name="Lanzhou.Content" xml:space="preserve">
+    <value>蘭州鐵路局</value>
+  </data>
+  <data name="listAgency.Text" xml:space="preserve">
+    <value>配屬路局</value>
+  </data>
+  <data name="listAgencyMobile.Text" xml:space="preserve">
+    <value>鐵路局</value>
+  </data>
+  <data name="listDep.Text" xml:space="preserve">
+    <value>配屬運用所</value>
+  </data>
+  <data name="listDepMobile.Text" xml:space="preserve">
+    <value>運用所</value>
+  </data>
+  <data name="listFactory.Text" xml:space="preserve">
+    <value>生產廠家</value>
+  </data>
+  <data name="listFactoryMobile" xml:space="preserve">
+    <value>生產廠家：</value>
+  </data>
+  <data name="listNum.Text" xml:space="preserve">
+    <value>編號</value>
+  </data>
+  <data name="listType.Text" xml:space="preserve">
+    <value>車輛類型</value>
+  </data>
+  <data name="listTypeMobile.Text" xml:space="preserve">
+    <value>類型</value>
+  </data>
+  <data name="Nanchang.Content" xml:space="preserve">
+    <value>南昌鐵路局</value>
+  </data>
+  <data name="Nanning.Content" xml:space="preserve">
+    <value>南寧鐵路局</value>
+  </data>
+  <data name="newVersion.Text" xml:space="preserve">
+    <value>最新資料庫版本: </value>
+  </data>
+  <data name="newVersionOK" xml:space="preserve">
+    <value>您已經使用最新版本資料庫</value>
+  </data>
+  <data name="oldVersion.Text" xml:space="preserve">
+    <value>當前資料庫版本: </value>
+  </data>
+  <data name="serverError" xml:space="preserve">
+    <value>更新伺服器錯誤，請檢查網路連接</value>
+  </data>
+  <data name="Shanghai.Content" xml:space="preserve">
+    <value>上海鐵路局</value>
+  </data>
+  <data name="Shenyang.Content" xml:space="preserve">
+    <value>瀋陽鐵路局</value>
+  </data>
+  <data name="Taiyuan.Content" xml:space="preserve">
+    <value>太原鐵路局</value>
+  </data>
+  <data name="Tibet.Content" xml:space="preserve">
+    <value>青藏鐵路公司</value>
+  </data>
+  <data name="Urmqi.Content" xml:space="preserve">
+    <value>烏魯木齊鐵路局</value>
+  </data>
+  <data name="Wuhan.Content" xml:space="preserve">
+    <value>武漢鐵路局</value>
+  </data>
+  <data name="Xian.Content" xml:space="preserve">
+    <value>西安鐵路局</value>
+  </data>
+  <data name="Zhengzhou.Content" xml:space="preserve">
+    <value>鄭州鐵路局</value>
+  </data>
+  <data name="App" xml:space="preserve">
+    <value>電聯車配屬查詢</value>
+  </data>
+  <data name="AgencyLabel" xml:space="preserve">
+    <value>配屬路局：</value>
+  </data>
+  <data name="DepLabel" xml:space="preserve">
+    <value>配屬運用所：</value>
+  </data>
+  <data name="HK.Content" xml:space="preserve">
+    <value>港鐵公司</value>
+  </data>
+  <data name="mm1435.Content" xml:space="preserve">
+    <value>車輛編組資料來源：新浪微博 @ 1435mm的距離</value>
+  </data>
+  <data name="listID.Text" xml:space="preserve">
+    <value>車廂編號</value>
+  </data>
+  <data name="listIDMobile.Text" xml:space="preserve">
+    <value>車廂</value>
+  </data>
+  <data name="listP.Text" xml:space="preserve">
+    <value>定員</value>
+  </data>
+  <data name="listT.Text" xml:space="preserve">
+    <value>車種</value>
+  </data>
+  <data name="mm1435Mobile.Content" xml:space="preserve">
+    <value>編組資料：新浪微博 @ 1435mm的距離</value>
+  </data>
+  <data name="sEMU" xml:space="preserve">
+    <value>標準電聯車</value>
+  </data>
+</root>

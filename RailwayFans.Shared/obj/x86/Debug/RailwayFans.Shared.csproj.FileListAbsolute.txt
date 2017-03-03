@@ -1,0 +1,17 @@
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\bin\x86\Debug\RailwayFans.Shared.dll
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\bin\x86\Debug\RailwayFans.Shared.pdb
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\bin\x86\Debug\RailwayFans.Shared.pri
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\x86\Debug\RailwayFans.Shared.csprojResolveAssemblyReference.cache
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\x86\Debug\RailwayFans.Shared.dll
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\x86\Debug\RailwayFans.Shared.pdb
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\x86\Debug\priconfig.xml
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\x86\Debug\priconfig.xml.intermediate
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\x86\Debug\layout.resfiles
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\x86\Debug\layout.resfiles.intermediate
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\x86\Debug\resources.resfiles
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\x86\Debug\resources.resfiles.intermediate
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\x86\Debug\pri.resfiles
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\x86\Debug\pri.resfiles.intermediate
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\x86\Debug\qualifiers.txt
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\x86\Debug\qualifiers.txt.intermediate
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

@@ -1,0 +1,54 @@
+﻿<Application
+    x:Class="RailwayFans_ToolboxsNG.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RailwayFans_ToolboxsNG"
+    RequestedTheme="Light">
+    <Application.Resources>
+        <ResourceDictionary>
+            <!--桌面版动车组配属模板列-->
+            <DataTemplate x:Key="dataEMUTemplate">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="{Binding Type}" Grid.Column="0" FontWeight="Bold"  HorizontalAlignment="Center"  />
+                    <TextBlock Text="{Binding ID}" Grid.Column="1" TextWrapping="NoWrap"   HorizontalAlignment="Center"   />
+                    <TextBlock Text="{Binding Agency}" Grid.Column="2" TextWrapping="NoWrap"   HorizontalAlignment="Center" FontSize="12.667" />
+                    <TextBlock Text="{Binding Dep}" Grid.Column="3" TextWrapping="NoWrap"   HorizontalAlignment="Center" FontSize="12.667" />
+                    <TextBlock Text="{Binding Factory}" Grid.Column="4" TextWrapping="NoWrap" HorizontalAlignment="Center" FontSize="12.667"/>
+                    <ItemsPresenter   Grid.Row="1" Grid.ColumnSpan="5"></ItemsPresenter>
+                </Grid>
+            </DataTemplate>
+
+            <!--移动版动车组配属模板列-->
+            <DataTemplate x:Key="dataEMUTemplateMobile">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="105"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="{Binding Type}" Grid.Column="0" FontWeight="Bold"  HorizontalAlignment="Center" FontSize="13"  />
+                    <TextBlock Text="{Binding ID}" Grid.Column="1" TextWrapping="NoWrap"   HorizontalAlignment="Center"  FontSize="13" />
+                    <TextBlock Text="{Binding Agency}" Grid.Column="2" TextWrapping="NoWrap"  HorizontalAlignment="Center" FontSize="12.667"/>
+                    <TextBlock Text="{Binding Dep}" Grid.Column="3" TextWrapping="NoWrap"  HorizontalAlignment="Center" FontSize="12.667"/>
+                    <ItemsPresenter   Grid.Row="1" Grid.ColumnSpan="4"></ItemsPresenter>
+                </Grid>
+            </DataTemplate>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

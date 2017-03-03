@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="aboutBtn" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="aboutContent" xml:space="preserve">
+    <value>Allocation locomotive Information Search for China Railway High-speed
+Data Source：http://www.passearch.info, Weibo@1435mm的距离.
+E-mail：cyqdj@live.cn. Please contact me.</value>
+  </data>
+  <data name="aboutTitle" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="appName" xml:space="preserve">
+    <value>Allocation locomotive Information Search for CRH</value>
+  </data>
+  <data name="attachInf" xml:space="preserve">
+    <value>Additional Info</value>
+  </data>
+  <data name="Beijing.Content" xml:space="preserve">
+    <value>Beijing</value>
+  </data>
+  <data name="btnAbout.Label" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="btnAgency.Label" xml:space="preserve">
+    <value>Bureau</value>
+  </data>
+  <data name="btnDep.Label" xml:space="preserve">
+    <value>EMU Depot</value>
+  </data>
+  <data name="btnNum.Label" xml:space="preserve">
+    <value>Serial No.
+</value>
+  </data>
+  <data name="btnSearch.Content" xml:space="preserve">
+    <value>Find</value>
+  </data>
+  <data name="btnType.Label" xml:space="preserve">
+    <value>Model</value>
+  </data>
+  <data name="btnUp.Content" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="btnUpdate.Label" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="Chengdu.Content" xml:space="preserve">
+    <value>Chengdu</value>
+  </data>
+  <data name="CR.Content" xml:space="preserve">
+    <value>China Rail Corp</value>
+  </data>
+  <data name="Guangzhou.Content" xml:space="preserve">
+    <value>Guangzhou</value>
+  </data>
+  <data name="Harbin.Content" xml:space="preserve">
+    <value>Harbin</value>
+  </data>
+  <data name="Huhe.Content" xml:space="preserve">
+    <value>Hohehot</value>
+  </data>
+  <data name="Jinan.Content" xml:space="preserve">
+    <value>Jinan</value>
+  </data>
+  <data name="Kunming.Content" xml:space="preserve">
+    <value>Kunming</value>
+  </data>
+  <data name="Lanzhou.Content" xml:space="preserve">
+    <value>Lanzhou</value>
+  </data>
+  <data name="listAgency.Text" xml:space="preserve">
+    <value>Bureau</value>
+  </data>
+  <data name="listAgencyMobile.Text" xml:space="preserve">
+    <value>Bureau</value>
+  </data>
+  <data name="listDep.Text" xml:space="preserve">
+    <value>EMU Depot</value>
+  </data>
+  <data name="listDepMobile.Text" xml:space="preserve">
+    <value>Depot</value>
+  </data>
+  <data name="listFactory.Text" xml:space="preserve">
+    <value>Mfr.</value>
+  </data>
+  <data name="listFactoryMobile" xml:space="preserve">
+    <value>Manufacturer: </value>
+  </data>
+  <data name="listNum.Text" xml:space="preserve">
+    <value>Serial No.</value>
+  </data>
+  <data name="listType.Text" xml:space="preserve">
+    <value>Model</value>
+  </data>
+  <data name="listTypeMobile.Text" xml:space="preserve">
+    <value>Model</value>
+  </data>
+  <data name="Nanchang.Content" xml:space="preserve">
+    <value>Nanchang</value>
+  </data>
+  <data name="Nanning.Content" xml:space="preserve">
+    <value>Nanning</value>
+  </data>
+  <data name="newVersion.Text" xml:space="preserve">
+    <value>Newest Database:</value>
+  </data>
+  <data name="newVersionOK" xml:space="preserve">
+    <value>Latest Version</value>
+  </data>
+  <data name="oldVersion.Text" xml:space="preserve">
+    <value>Current Database: </value>
+  </data>
+  <data name="serverError" xml:space="preserve">
+    <value>An error has been encountered in accessing the server. Please check your network connection. </value>
+  </data>
+  <data name="Shanghai.Content" xml:space="preserve">
+    <value>Shanghai</value>
+  </data>
+  <data name="Shenyang.Content" xml:space="preserve">
+    <value>Shenyang</value>
+  </data>
+  <data name="Taiyuan.Content" xml:space="preserve">
+    <value>Taiyuan</value>
+  </data>
+  <data name="Tibet.Content" xml:space="preserve">
+    <value>Qinghai-Tibet</value>
+  </data>
+  <data name="Urmqi.Content" xml:space="preserve">
+    <value>Urumqi</value>
+  </data>
+  <data name="Wuhan.Content" xml:space="preserve">
+    <value>Wuhan</value>
+  </data>
+  <data name="Xian.Content" xml:space="preserve">
+    <value>Xi'an</value>
+  </data>
+  <data name="Zhengzhou.Content" xml:space="preserve">
+    <value>Zhengzhou</value>
+  </data>
+  <data name="App" xml:space="preserve">
+    <value>Allocation locomotive for CRH</value>
+  </data>
+  <data name="AgencyLabel" xml:space="preserve">
+    <value>Bureau: </value>
+  </data>
+  <data name="DepLabel" xml:space="preserve">
+    <value>EMU Depot: </value>
+  </data>
+  <data name="HK.Content" xml:space="preserve">
+    <value>MTR</value>
+  </data>
+  <data name="mm1435.Content" xml:space="preserve">
+    <value>Data source：Weibo @ 1435mm的距离</value>
+  </data>
+  <data name="listID.Text" xml:space="preserve">
+    <value>Coach No.</value>
+  </data>
+  <data name="listIDMobile.Text" xml:space="preserve">
+    <value>Coach</value>
+  </data>
+  <data name="listP.Text" xml:space="preserve">
+    <value>Posts</value>
+  </data>
+  <data name="listT.Text" xml:space="preserve">
+    <value>Class</value>
+  </data>
+  <data name="mm1435Mobile.Content" xml:space="preserve">
+    <value>Data source：Weibo @ 1435mm的距离</value>
+  </data>
+  <data name="sEMU" xml:space="preserve">
+    <value>S. EMU</value>
+  </data>
+</root>

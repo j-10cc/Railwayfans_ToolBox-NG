@@ -1,0 +1,16 @@
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\bin\ARM\Debug\RailwayFans.Shared.dll
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\bin\ARM\Debug\RailwayFans.Shared.pdb
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\bin\ARM\Debug\RailwayFans.Shared.pri
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\ARM\Debug\RailwayFans.Shared.dll
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\ARM\Debug\RailwayFans.Shared.pdb
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\ARM\Debug\priconfig.xml
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\ARM\Debug\priconfig.xml.intermediate
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\ARM\Debug\layout.resfiles
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\ARM\Debug\layout.resfiles.intermediate
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\ARM\Debug\resources.resfiles
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\ARM\Debug\resources.resfiles.intermediate
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\ARM\Debug\pri.resfiles
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\ARM\Debug\pri.resfiles.intermediate
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\ARM\Debug\qualifiers.txt
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\ARM\Debug\qualifiers.txt.intermediate
+E:\项目\Project\RailwayFans-ToolboxsNG\RailwayFans.Shared\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
